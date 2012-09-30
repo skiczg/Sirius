@@ -1,0 +1,3 @@
+[submodule "Sirius"]
+	path = Sirius
+	url = git://github.com/skiczg/Sirius.git
